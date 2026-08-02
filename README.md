@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:121212&height=500&section=header&text=Halo,%20saya%20Rizal%20👋&fontSize=42&fontColor=a8ff3e&animation=fadeIn&fontAlignY=38&desc=Sistem%20Informasi%20%7C%20Beralih%20ke%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:121212&height=400&section=header&text=Halo,%20saya%20Rizal%20👋&fontSize=42&fontColor=a8ff3e&animation=fadeIn&fontAlignY=38&desc=Sistem%20Informasi%20%7C%20Beralih%20ke%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=a8ff3e&vCenter=true&size=20&pause=1200"/>
 </div>
 <br>
