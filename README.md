@@ -1,8 +1,13 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000" />
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph" />
+</div>
+
 <h2 data-importer="text" align="left">Programming Language</h2>
 
 ###
+
 
 <br clear="both">
 
