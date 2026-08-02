@@ -1,6 +1,7 @@
-<div align="center">
+
 
 <div align="center">
+  <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Cubes" />
   <!-- Terminal Stats Addition -->
 <a href="https://github.com/Rizalnendian">
   <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Rizalnendian&theme=tokyonight&show_avatar=true" alt="GitHub Stats Terminal" />
