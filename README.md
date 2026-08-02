@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&vCenter=true&width=435&lines=WELCOME!;My+name+is+Rizal+Nendian+Rezkita;You+can+call+me+%22Zal%22;I'm+from+Indonesia;I'm+a+student+of+Information+Systems+at+Universitas+Terbuka;Currently+studying+and+hoping+to+pursue+a+career+in+IT;I'm+primarily+a+graphic+designer+specializing+in+jersey+design+and+social+media+marketing" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg" align = "center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&vCenter=true&width=435&lines=WELCOME!;My+name+is+Rizal+Nendian+Rezkita;You+can+call+me+%22Zal%22;I'm+from+Indonesia;I'm+a+student+of+Information+Systems+at+Universitas+Terbuka;Currently+studying+and+hoping+to+pursue+a+career+in+IT;I'm+primarily+a+graphic+designer+specializing+in+jersey+design+and+social+media+marketing" alt="Typing SVG"/></a>
 </div>
 
 
@@ -82,15 +82,15 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 ###
 
 <div data-importer="stats" align="center" width="100%">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=000000&border_color=00AEFF&locale=en&hide_border=false&border_radius=5&order=3card_width=440" height="195" width="49%" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&background=000000&border=00AEFF&stroke=FFFFFF&ring=00AEFF&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=false&border_radius=5&order=3&card_width=440&card_height=195" height="195" width="49%" alt="streak graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=000000&border_color=00AEFF&locale=en&hide_border=true&border_radius=5&order=3card_width=440" height="195" width="49%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&background=000000&border=00AEFF&stroke=FFFFFF&ring=00AEFF&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true&border_radius=5&order=3&card_width=440&card_height=195" height="195" width="49%" alt="streak graph" />
 </div> <br>
 
 <div data-importer="stats" align="center" width="100%">
   
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&border_color=00AEFF&theme=chartreuse-dark&border_radius=5&border=3" width="93%" alt="languages graph" /><br><br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&hide_border=true&border_color=00AEFF&theme=chartreuse-dark&border_radius=5&border=3" width="93%" alt="languages graph" /><br><br>
   <a href="https://github.com/Rizalnendian/Rizalnendian">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&theme=chartreuse-dark&border_color=00AEFF&border_radius=5&border=3" width="93%" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&theme=chartreuse-dark&hide_border=true&" width="93%" alt="GitHub Activity Graph" />
   </a>
 </div><br>
 
