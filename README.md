@@ -87,12 +87,12 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 </div> <br>
 
 <div data-importer="stats" align="center" width="100%">
-  
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&hide_border=true&border_color=00AEFF&theme=chartreuse-dark&border_radius=5&border=3" width="93%" alt="languages graph" /><br><br>
   <a href="https://github.com/Rizalnendian/Rizalnendian">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&theme=chartreuse-dark&hide_border=true&" width="93%" alt="GitHub Activity Graph" />
   </a>
-</div><br>
+</div>
+
 <br>
 <h2 data-importer="text" align="center">Music</h2>
 <p align="center">
