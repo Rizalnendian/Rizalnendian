@@ -1,31 +1,28 @@
-
-
 <div align="center">
-  <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Cubes" />
+  <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/cubes/api?height=200&width=2000&bannerText=Cubes" alt="Banner" />
+  <br><br>
+  
   <!-- Terminal Stats Addition -->
-<a href="https://github.com/Rizalnendian">
-  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Rizalnendian&theme=tokyonight&show_avatar=true" alt="GitHub Stats Terminal" />
-</a>
+  <a href="https://github.com/Rizalnendian">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Rizalnendian&theme=tokyonight&show_avatar=true" alt="GitHub Stats Terminal" />
+  </a>
   <br><br>
 
-
-
   <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=D4FF00&vCenter=true&size=18&pause=1200" alt="Typing effect" />
-
 </div>
 
 ---
 
-### ABOUT ME
+### ⚡ ABOUT ME
 
-
+> **[ STATUS : ONLINE ]**  
 > Saya adalah Desainer Jersey berpengalaman yang pernah bergabung dengan **SNS APPAREL**, dengan keahlian dalam membuat desain sesuai permintaan klien, menyusun detail produksi, serta pola *printing*. Saya juga mahir dalam desain konten media sosial, *motion graphic*, video *reels*, dan pembuatan materi pemasaran.
 > 
 > Berbekal kedisiplinan dan ketelitian dari pengalaman magang di **Tribunnews Bogor**, saat ini saya sedang menempuh pendidikan **S1 Sistem Informasi di Universitas Terbuka**. Memiliki minat kuat di bidang IT, khususnya *software* & *web development*, saya siap melakukan transisi dan berkembang dalam peran teknis sebagai **Web Developer**.
 
 ---
 
-### ⚙️TECH STACK
+### ⚙️ TECH STACK
 
 <div align="center">
 
@@ -49,13 +46,32 @@
 
 ---
 
-### 📊GITHUB STATS
+### 📊 GITHUB STATS
 
-  
+<div align="center">
+  <!-- Top Stats & Streak -->
   <img src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&icon_color=1B36C6&border_color=1B36C6&hide_border=false&border_radius=0" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&layout=compact&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&border_color=1B36C6&hide_border=false&border_radius=0" height="200" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&layout=compact&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&border_color=1B36C6&hide_border=false&border_radius=0" height="165" alt="Top Langs" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=Rizalnendian&background=000000&ring=1B36C6&fire=D4FF00&currStreakNum=D4FF00&sideNums=B3B3B3&currStreakLabel=B3B3B3&sideLabels=B3B3B3&dates=B3B3B3&stroke=1B36C6&border=1B36C6&hide_border=false&border_radius=0" alt="Streak" />
+  <br><br>
+
+  <!-- GitHub Profile Summary Cards -->
+  <a href="https://github.com/Rizalnendian/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Rizalnendian/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details" />
+  </a>
+  <a href="https://github.com/Rizalnendian/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Rizalnendian/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="Repos per Language" />
+  </a>
+  <a href="https://github.com/Rizalnendian/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Rizalnendian/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+  </a>
+  <a href="https://github.com/Rizalnendian/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Rizalnendian/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="Stats" />
+  </a>
+  <a href="https://github.com/Rizalnendian/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Rizalnendian/github-profile-summary-cards/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="Productive Time" />
+  </a>
 </div>
 
 ---
