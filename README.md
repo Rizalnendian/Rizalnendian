@@ -81,10 +81,16 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 
 ###
 
-<div data-importer="stats" align="center" width="100%">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=000000&border_color=00AEFF&locale=en&hide_border=true&border_radius=5&order=3card_width=440" height="195" width="49%" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&background=000000&border=00AEFF&stroke=FFFFFF&ring=00AEFF&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true&border_radius=5&order=3&card_width=440&card_height=195" height="195" width="49%" alt="streak graph" />
-</div> <br>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=000000&border_color=00AEFF&locale=en&hide_border=true&border_radius=5&order=3&card_width=440" alt="stats graph" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&background=000000&border=00AEFF&stroke=FFFFFF&ring=00AEFF&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true&border_radius=5&order=3&card_width=440&card_height=195" alt="streak graph" />
+    </td>
+  </tr>
+</table>
 
 <div data-importer="stats" align="center" width="100%">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&hide_border=true&border_color=00AEFF&theme=chartreuse-dark&border_radius=5&border=3" width="93%" alt="languages graph" /><br><br>
