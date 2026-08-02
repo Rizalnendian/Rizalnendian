@@ -5,7 +5,7 @@
 <h2 data-importer="text" align="center">About me</h2>
 
 
-<p data-importer="text" align="center">I am a Bachelor's degree student in Information Systems at Universitas Terbuka (Open University) with a deep interest and focus in IT, particularly software and web development. Armed with a strong analytical understanding, I am ready to take on a technical role as a Web Developer to build and develop innovative digital solutions.
+<p data-importer="text" align="justify">I am a Bachelor's degree student in Information Systems at Universitas Terbuka (Open University) with a deep interest and focus in IT, particularly software and web development. Armed with a strong analytical understanding, I am ready to take on a technical role as a Web Developer to build and develop innovative digital solutions.
 
 Before fully focusing on IT, I had solid professional experience in the creative industry as an experienced Jersey Designer at SNS APPAREL, working from client design customization and production details to printing patterns. Furthermore, I am proficient in creating marketing materials, social media content design, motion graphics, and video reels using CorelDRAW, Photoshop, and Adobe Premiere.
 
