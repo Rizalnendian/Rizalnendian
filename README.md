@@ -28,6 +28,7 @@ Materi kuliah yang lagi dijalani: jaringan, pemrograman web, rekayasa perangkat 
 ## GitHub Stats
 <div align="center">
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&hide_border=true&count_private=true&bg_color=191919&title_color=BDFB04&text_color=DFDED7&icon_color=BDFB04"/>
+<br>
   
 <img height="165" src="https://streak-stats.demolab.com/?user=Rizalnendian&layout=compact&hide_border=true&langs_count=8&bg_color=191919&title_color=BDFB04&text_color=DFDED7"/>
 <br> 
