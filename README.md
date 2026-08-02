@@ -10,14 +10,11 @@
 
 ## Tentang Saya
 
-Mahasiswa Sistem Informasi di Universitas Terbuka Bogor, dengan latar belakang sebagai desainer jersey di SNS APPAREL — pernah pegang desain sesuai permintaan klien, detail produksi, sampai pola cetak. Sekarang lagi pindah jalur ke pengembangan web, dengan fokus belajar front-end.
+Kuliah Sistem Informasi di Universitas Terbuka Bogor. Sebelumnya saya desainer jersey di SNS APPAREL, ngurusin desain sesuai request klien sampai detail produksi dan pola cetak. Sekarang pelan-pelan geser ke web development, mulai dari HTML, CSS, JavaScript, sampai Vue.js.
 
-Sempat magang di Tribunnews Bogor, jaga konsistensi standar publikasi konten.
+Sempat magang di Tribunnews Bogor juga, bantu mastiin konten yang naik tayang sesuai standar publikasi.
 
-- 🎓 Kuliah: jaringan, pemrograman web, rekayasa perangkat lunak, metodologi penelitian
-- 🎨 Skill lama: desain konten media sosial, motion graphic, video reel
-- 💻 Skill baru: HTML, CSS, JavaScript, Vue.js
-- 🔭 Lagi kerjain: transisi karier ke Web Developer
+Materi kuliah yang lagi dijalani: jaringan, pemrograman web, rekayasa perangkat lunak, dan metodologi penelitian. Skill lama dari dunia desain (CorelDRAW, Photoshop, Premiere) masih kepake, terutama pas bikin dokumentasi proyek biar nggak keliatan mentah.
 
 <br>
 
@@ -49,7 +46,7 @@ Sempat magang di Tribunnews Bogor, jaga konsistensi standar publikasi konten.
 
 </div>
 
-> Bagian "Top Langs" di atas otomatis membaca ulang repository setiap kali README ini dibuka — jadi kalau ada repo baru dengan bahasa baru, grafiknya update sendiri tanpa perlu diedit manual.
+> Bagian "Top Langs" di atas otomatis membaca ulang repository tiap kali README ini dibuka. Kalau ada repo baru dengan bahasa baru, grafiknya ikut update sendiri, nggak perlu diedit manual.
 
 <br>
 
