@@ -13,7 +13,7 @@
 
 ###
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
@@ -52,16 +52,16 @@
 ###
 
 <div data-importer="stats" align="center" width="100%">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" width="48%" height="195" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="48%" height="195" alt="streak graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&card_width=440" height="195" width="48%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_width=440&card_height=195" height="195" width="48%" alt="streak graph" />
 </div>
 
 <br>
 
 <div data-importer="stats" align="center" width="100%">
-  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="48%" height="195" alt="languages graph" />
-  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" width="48%" height="195" alt="activity-graph graph" />
-</div>><br>
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/languages-output/languages.svg" width="100%" height="195" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/activity-graph-output/activity-graph.svg" width="100%" height="195" alt="activity-graph graph" />
+</div><br>
 
 ###
 <br>
