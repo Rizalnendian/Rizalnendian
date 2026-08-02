@@ -81,33 +81,20 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 
 ###
 
-<table align="center" border="1" style="border: 1px solid #00AEFF; background: transparent; border-collapse: collapse;">
-  <!-- Baris 1: Stats Graph & Streak Graph -->
-  <tr>
-    <td align="center" style="border: 1px solid #00AEFF;">
-      <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=000000&border_color=00AEFF&locale=en&hide_border=true&border_radius=5&order=3&card_width=440" alt="stats graph" />
-    </td>
-    <td align="center" style="border: 1px solid #00AEFF;">
-      <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&background=000000&border=00AEFF&stroke=FFFFFF&ring=00AEFF&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=true&border_radius=5&order=3&card_width=440&card_height=195" alt="streak graph" />
-    </td>
-  </tr>
-  
-  <!-- Baris 2: Top Languages Graph -->
-  <tr>
-    <td align="center" colspan="2" style="border: 1px solid #00AEFF;">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&hide_border=true&border_color=00AEFF&theme=chartreuse-dark&border_radius=5&border=3" width="98%" alt="languages graph" />
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=00000000&border_color=00AEFF&locale=en&hide_border=false&border_radius=5&card_width=400" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&background=00000000&border=00AEFF&stroke=FFFFFF&ring=00AEFF&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=false&border_radius=5&card_width=400" alt="streak graph" />
+</p>
 
-  <!-- Baris 3: Activity Graph -->
-  <tr>
-    <td align="center" colspan="2" style="border: 1px solid #00AEFF;">
-      <a href="https://github.com/Rizalnendian/Rizalnendian">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&theme=chartreuse-dark&hide_border=true&" width="98%" alt="GitHub Activity Graph" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&hide_border=false&border_color=00AEFF&bg_color=00000000&title_color=7FFF00&text_color=FFFFFF&border_radius=5&card_width=810" alt="languages graph" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rizalnendian/Rizalnendian">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&bg_color=00000000&color=7FFF00&line=00AEFF&point=FFFFFF&area=false&hide_border=false&border=00AEFF" width="810" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 <br>
 <h2 data-importer="text" align="center">Music</h2>
