@@ -30,7 +30,7 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=000000&logoColor=7FFF00&labelColor=000000&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
   <a href="https://x.com/RezkitaRizal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=00AEFF&logoColor=000000&labelColor=000000&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=7FFF00&labelColor=000000&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@rizalnendianr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=7FFF00&labelColor=000000&style=for-the-badge" height="40" alt="youtube logo"  />
