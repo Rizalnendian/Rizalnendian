@@ -1,46 +1,63 @@
 <div align="center">
 
-# Halo, saya Rizal Nendian! 👋
+# Halo, Saya Rizal Nendian! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=Informatics+Engineering;Software+Developer;System+Architecture+Enthusiast)](https://git.io/typing-svg)
+**Mahasiswa Teknik Informatika | Pengembang Perangkat Lunak | Penggemar Arsitektur Sistem**
 
-Saya adalah seorang pengembang perangkat lunak yang berfokus pada rekayasa sistem, dokumentasi (*Flowchart*, *Sequence Diagrams*), dan pemecahan masalah algoritma. Di luar dunia pemrograman, saya juga memiliki ketertarikan pada eksplorasi desain *streetwear fashion*.
-
-📫 **Hubungi Saya:** 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-linkedin-kamu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
+Sebuah ruang kerja digital tempat logika bertemu dengan kreativitas. Saya berfokus pada pengembangan perangkat lunak, perancangan algoritma yang efisien, dan pembuatan dokumentasi sistem yang komprehensif (*Flowchart*, *Sequence Diagrams*, *Rich Picture*). Di luar penulisan kode, saya juga menikmati eksplorasi visual, termasuk estetika *streetwear fashion*.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🌐 Mari Terhubung
 
-**Bahasa & Framework**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Desain Sistem**<br>
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-### 🚀 Proyek Unggulan
-
-Berikut adalah beberapa repositori yang sedang/telah saya kerjakan:
-
-*   ☕ **[Belajar-JAVA-Pemula](https://github.com/Rizalnendian/Belajar-JAVA-Pemula)** - Panduan komprehensif, kode sumber, dan catatan penting untuk memahami dasar-dasar pemrograman berorientasi objek menggunakan Java.
-*   ⚙️ **[ALGORITMA-PERHITUNGAN-GAJI-KARYAWAN-SEDERHANA](https://github.com/Rizalnendian/ALGORITMA-PERHITUNGAN-GAJI-KARYAWAN-SEDERHANA)** - Implementasi algoritma logika bisnis untuk sistem penggajian karyawan berbasis *backend*.
-*   🏥 **Sistem Rekam Medis & Marketplace (Dokumentasi)** - Berpengalaman dalam memodelkan *Rich Picture*, proses bisnis, dan *Sequence Diagram* untuk sistem kompleks.
+<!-- Silakan ganti URL href di bawah ini dengan tautan akun sosial mediamu yang sebenarnya -->
+<p align="center">
+  <a href="https://linkedin.com/in/username-linkedin-kamu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/username-ig-kamu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Bahasa Pemrograman (Auto-Update)
+
+Kartu di bawah ini akan secara **otomatis diperbarui** berdasarkan bahasa pemrograman yang kamu gunakan di seluruh repositori publikmu.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizalnendian&layout=compact&theme=tokyonight&hide_border=true&title_color=2ecc71&text_color=a9b1d6" alt="Bahasa Pemrograman Teratas" />
+</p>
+
+---
+
+### 📊 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rizalnendian&show_icons=true&theme=tokyonight&hide_border=true&title_color=2ecc71&text_color=a9b1d6&icon_color=2ecc71" alt="Statistik GitHub Rizal Nendian" />
+</p>
+
+---
+
+### 🚀 Repositori Sorotan
+
+<p align="center">
+  <a href="https://github.com/Rizalnendian/Belajar-JAVA-Pemula">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizalnendian&repo=Belajar-JAVA-Pemula&theme=tokyonight&hide_border=true&title_color=2ecc71" alt="Belajar Java Pemula" />
+  </a>
+  <br>
+  <a href="https://github.com/Rizalnendian/ALGORITMA-PERHITUNGAN-GAJI-KARYAWAN-SEDERHANA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizalnendian&repo=ALGORITMA-PERHITUNGAN-GAJI-KARYAWAN-SEDERHANA&theme=tokyonight&hide_border=true&title_color=2ecc71" alt="Algoritma Gaji Karyawan" />
+  </a>
+</p>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Rizalnendian&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=c9d1d9" alt="Rizal's GitHub Stats" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizalnendian&theme=radium&hide_border=true&background=0D1117&ring=2ecc71&fire=2ecc71&currStreakLabel=c9d1d9" alt="Rizal's GitHub Streak" />
+<p align="center">
+  <i>"Menulis kode adalah merancang masa depan, satu baris pada satu waktu."</i>
+</p>
 
 </div>
