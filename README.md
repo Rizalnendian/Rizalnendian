@@ -42,6 +42,8 @@ Di samping latar belakang desain, saya memiliki minat kuat di bidang IT, khususn
 <br>
 
 ## Terhubung
+<br clear="both">
+
 <div data-importer="socials" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
