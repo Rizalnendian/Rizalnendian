@@ -13,7 +13,7 @@
 
 ---
 
-### ABOUT_ME
+### ABOUT ME
 
 
 > Saya adalah Desainer Jersey berpengalaman yang pernah bergabung dengan **SNS APPAREL**, dengan keahlian dalam membuat desain sesuai permintaan klien, menyusun detail produksi, serta pola *printing*. Saya juga mahir dalam desain konten media sosial, *motion graphic*, video *reels*, dan pembuatan materi pemasaran.
@@ -22,7 +22,7 @@
 
 ---
 
-### ⚙️ `SYS.TECH_STACK`
+### ⚙️TECH STACK
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 `SYS.GITHUB_STATS`
+### 📊GITHUB STATS
 
   
   <img src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&icon_color=1B36C6&border_color=1B36C6&hide_border=false&border_radius=0" height="165" alt="Stats" />
@@ -57,7 +57,7 @@
 
 ---
 
-### 🔗 `SYS.CONNECTIONS`
+### 🔗 Let's Connect!
 
 <div align="center">
   <!-- Ganti tanda '#' pada href dengan URL sosial media Anda -->
