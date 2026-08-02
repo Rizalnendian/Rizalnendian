@@ -50,9 +50,9 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" width="49%">
-  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width="49%">
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <br>
 
