@@ -5,11 +5,15 @@
 <br>
 
 ## Tentang Saya
-Kuliah Sistem Informasi di Universitas Terbuka Bogor. Sebelumnya saya desainer jersey di SNS APPAREL, ngurusin desain sesuai request klien sampai detail produksi dan pola cetak. Sekarang pelan-pelan geser ke web development, mulai dari HTML, CSS, JavaScript, sampai Vue.js.
+​Saya adalah Desainer Jersey berpengalaman yang pernah bergabung dengan SNS APPAREL, dengan keahlian dalam membuat desain sesuai permintaan klien, menyusun detail produksi, serta pola printing. Selain itu, saya juga mahir dalam desain konten media sosial, motion graphic, video reels, desain jersey, dan pembuatan materi pemasaran seperti brosur dan katalog. Dalam menjalankan pekerjaan tersebut, saya menggunakan berbagai tools, di antaranya CorelDRAW, Photoshop, dan Adobe Premiere.
 
-Sempat magang di Tribunnews Bogor juga, bantu mastiin konten yang naik tayang sesuai standar publikasi.
+​
 
-Materi kuliah yang lagi dijalani: jaringan, pemrograman web, rekayasa perangkat lunak, dan metodologi penelitian. Skill lama dari dunia desain (CorelDRAW, Photoshop, Premiere) masih kepake, terutama pas bikin dokumentasi proyek biar nggak keliatan mentah.
+Selama magang di Tribunnews Bogor, saya terbiasa menjaga konsistensi publikasi konten dengan standar tinggi, yang memperkuat kedisiplinan dan ketelitian saya dalam bekerja. Saat ini, saya sedang menempuh pendidikan S1 Sistem Informasi di Universitas Terbuka sambil terus mengembangkan diri di industri kreatif.
+
+​
+
+Di samping latar belakang desain, saya memiliki minat kuat di bidang IT, khususnya software development dan web development. Oleh karena itu, saya siap beralih ke peran teknis seperti Web Developer sebagai langkah lanjutan untuk terus berkembang di dunia digital.
 <br>
 
 ## Tools & Stack
