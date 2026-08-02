@@ -2,6 +2,8 @@
   
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rect&height=120&section=header&reversal=false&text=Rizal_Nendian&fontSize=50&fontColor=D4FF00&fontAlign=50&fontAlignY=45&stroke=1B36C6&strokeWidth=2&animation=twinkling&desc=%3E_SYS.INIT()&descSize=16&descAlign=50&descAlignY=75&textBg=false&color=000000" alt="Header" />
 
+<a href= "https://github-stats-terminal-style-five.vercel.app/api/stats?username=Rizlnendian&theme=tokyonight">https://github.com/your-username)</a>
+
   <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=D4FF00&vCenter=true&size=18&pause=1200" alt="Typing effect" />
 
 </div>
