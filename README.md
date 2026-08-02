@@ -1,8 +1,8 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000" />
 
-<h2 data-importer="text" align="left">Programming Language</h2>
+<h2 align="left">Programming Language</h2>
 
-<div data-importer="techs" align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
@@ -12,9 +12,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
 </div>
 
-<h2 data-importer="text" align="left">Software</h2>
+<h2 align="left">Software</h2>
 
-<div data-importer="techs" align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
@@ -30,16 +30,37 @@
 
 <br>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" width="100%" alt="stats graph" />
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="100%" alt="stats graph" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" width="100%" alt="streak graph" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizalnendian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="100%" alt="languages graph" />
   <br><br>
-  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph graph" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&radius=16&theme=react&area=true" width="100%" alt="activity-graph graph" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="100%">
+</div>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" width="49%">
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" width="49%">
+</div>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" width="49%">
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width="49%">
+</div>
 <br>
 
 <p align="center">
