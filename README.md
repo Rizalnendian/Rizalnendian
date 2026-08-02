@@ -53,7 +53,6 @@ Di samping latar belakang desain, saya memiliki minat kuat di bidang IT, khususn
 </div>
 <br>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Rizalnendian&style=for-the-badge&color=a8ff3e&label=Kunjungan+Profil"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:121212&height=100&section=footer" width="100%"/>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=a66cff"  />
 </div>
