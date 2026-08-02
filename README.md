@@ -13,11 +13,11 @@
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width = 500px>
 </div>
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=315euv2avaqfvibneclvuo75hata&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
-</div>
+</p>
 
 <br>
 
