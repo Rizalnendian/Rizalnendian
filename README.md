@@ -21,7 +21,7 @@ Di samping latar belakang desain, saya memiliki minat kuat di bidang IT, khususn
 
 **Programming**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,vue,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,git,github,java&theme=dark"/>
 <br>
 <br>
 
