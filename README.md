@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=200&section=header&text=Halo,%20saya%20Zals%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Sistem%20Informasi%20%7C%20Beralih%20ke%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=200&section=header&text=Halo,%20saya%20Rizal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Sistem%20Informasi%20%7C%20Beralih%20ke%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=0EA5E9&vCenter=true&size=20&pause=1200"/>
 
@@ -46,7 +46,6 @@ Materi kuliah yang lagi dijalani: jaringan, pemrograman web, rekayasa perangkat 
 
 </div>
 
-> Bagian "Top Langs" di atas otomatis membaca ulang repository tiap kali README ini dibuka. Kalau ada repo baru dengan bahasa baru, grafiknya ikut update sendiri, nggak perlu diedit manual.
 
 <br>
 
