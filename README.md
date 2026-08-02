@@ -13,9 +13,9 @@
 
 ---
 
-### ⚡ `SYS.ABOUT_ME`
+### ABOUT_ME
 
-> **[ STATUS : ONLINE ]**  
+
 > Saya adalah Desainer Jersey berpengalaman yang pernah bergabung dengan **SNS APPAREL**, dengan keahlian dalam membuat desain sesuai permintaan klien, menyusun detail produksi, serta pola *printing*. Saya juga mahir dalam desain konten media sosial, *motion graphic*, video *reels*, dan pembuatan materi pemasaran.
 > 
 > Berbekal kedisiplinan dan ketelitian dari pengalaman magang di **Tribunnews Bogor**, saat ini saya sedang menempuh pendidikan **S1 Sistem Informasi di Universitas Terbuka**. Memiliki minat kuat di bidang IT, khususnya *software* & *web development*, saya siap melakukan transisi dan berkembang dalam peran teknis sebagai **Web Developer**.
