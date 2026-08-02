@@ -2,16 +2,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=WELCOME!;My+name+is+Rizal+Nendian+Rezkita;You+can+call+me+%22Zal%22;I'm+from+Indonesia;I'm+a+student+of+Information+Systems+at+Universitas+Terbuka;Currently+studying+and+hoping+to+pursue+a+career+in+IT;I'm+primarily+a+graphic+designer+specializing+in+jersey+design+and+social+media+marketing" alt="Typing SVG"/></a>
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="center">About me</h2>
 
 
-<p data-importer="text" align="left">I am a Bachelor's degree student in Information Systems at Universitas Terbuka (Open University) with a deep interest and focus in IT, particularly software and web development. Armed with a strong analytical understanding, I am ready to take on a technical role as a Web Developer to build and develop innovative digital solutions.
+<p data-importer="text" align="center">I am a Bachelor's degree student in Information Systems at Universitas Terbuka (Open University) with a deep interest and focus in IT, particularly software and web development. Armed with a strong analytical understanding, I am ready to take on a technical role as a Web Developer to build and develop innovative digital solutions.
 
 Before fully focusing on IT, I had solid professional experience in the creative industry as an experienced Jersey Designer at SNS APPAREL, working from client design customization and production details to printing patterns. Furthermore, I am proficient in creating marketing materials, social media content design, motion graphics, and video reels using CorelDRAW, Photoshop, and Adobe Premiere.
 
 My internship as a content creator at Tribunnews Bogor has shaped my discipline, meticulousness, and high standards in maintaining consistent publications. This combination of aesthetic acumen from the design world and logical abilities from my Information Systems background gives me a unique advantage in bridging technical functionality and optimal user experience in every web development project.</p>
 
-<h2 data-importer="text" align="left">Social Media</h2>
+<h2 data-importer="text" align="center">Social Media</h2>
 
 ###
 
@@ -35,11 +35,11 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 
 ###
 
-<h2 data-importer="text" align="left">Programming language</h2>
+<h2 data-importer="text" align="center">Programming language</h2>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -53,11 +53,11 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 
 ###
 
-<h2 data-importer="text" align="left">Software</h2>
+<h2 data-importer="text" align="center">Software</h2>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
