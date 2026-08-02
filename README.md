@@ -7,11 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=a8ff3e&vCenter=true&size=20&pause=1200"/>
 </div>
 <br>
-<picture data-importer="pacman">
+
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
 
 ## Tentang Saya
 
