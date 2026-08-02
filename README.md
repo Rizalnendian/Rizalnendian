@@ -2,16 +2,16 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width = 100%>
-</div>
+</div><br>
 
 <div align="center" >
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" width = 400px>
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" width = 400px>
-</div>
-<div align="center">
+</div> <br>
+<div align="center" width = 100%>
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" width = 400px>
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width = 400px>
-</div>
+</div><br>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
