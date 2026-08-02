@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&vCenter=true&center=true&&width=400&lines=WELCOME!;My+name+is+Rizal+Nendian+Rezkita;You+can+call+me+Zal;I'm+from+Indonesia;I'm+a+student+of+Information+Systems+;At+Universitas+Terbuka;I'm+primarily+a+graphic+designer" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&vCenter=true&center=true&&width=400&lines=WELCOME!;My+name+is+Rizal+Nendian+Rezkita;You+can+call+me+Zal;I+'m+from+Indonesia;I+'m+a+student+of+Information+Systems+;At+Universitas+Terbuka;I'm+primarily+a+graphic+designer" alt="Typing SVG"></a>
 </div>
 
 
@@ -93,13 +93,14 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&theme=chartreuse-dark&hide_border=true&" width="93%" alt="GitHub Activity Graph" />
   </a>
 </div><br>
-
+<br>
 <h2 data-importer="text" align="center">Music</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=7fff00&bar_color_cover=false&mode=dark">
   </a>
 </p>
+
 
 <br>
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20" />
