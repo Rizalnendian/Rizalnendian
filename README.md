@@ -9,6 +9,12 @@
 <br>
 
 ## Tentang Saya
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
 ​Saya adalah Desainer Jersey berpengalaman yang pernah bergabung dengan SNS APPAREL, dengan keahlian dalam membuat desain sesuai permintaan klien, menyusun detail produksi, serta pola printing. Selain itu, saya juga mahir dalam desain konten media sosial, motion graphic, video reels, desain jersey, dan pembuatan materi pemasaran seperti brosur dan katalog. Dalam menjalankan pekerjaan tersebut, saya menggunakan berbagai tools, di antaranya CorelDRAW, Photoshop, dan Adobe Premiere.
 
 Selama magang di Tribunnews Bogor, saya terbiasa menjaga konsistensi publikasi konten dengan standar tinggi, yang memperkuat kedisiplinan dan ketelitian saya dalam bekerja. Saat ini, saya sedang menempuh pendidikan S1 Sistem Informasi di Universitas Terbuka sambil terus mengembangkan diri di industri kreatif.
