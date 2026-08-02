@@ -14,14 +14,16 @@ Di samping latar belakang desain, saya memiliki minat kuat di bidang IT, khususn
 
 ## Tools & Stack
 **Design**
-
+<div align="center">
 <img src="https://img.shields.io/badge/CorelDRAW-121212?style=for-the-badge&logo=corel&logoColor=a8ff3e"/>
 <img src="https://img.shields.io/badge/Photoshop-121212?style=for-the-badge&logo=adobephotoshop&logoColor=a8ff3e"/>
 <img src="https://img.shields.io/badge/Premiere%20Pro-121212?style=for-the-badge&logo=adobepremierepro&logoColor=a8ff3e"/>
+</div>
 
 **Programming**
-
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,git,github,java&theme=dark"/>
+</div>
 <br>
 <br>
 
