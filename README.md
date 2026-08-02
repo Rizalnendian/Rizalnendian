@@ -14,12 +14,12 @@
 </div>
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=315euv2avaqfvibneclvuo75hata&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=30cb99e9b70146f5&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=30cb99e9b70146f5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing">
   </a>
 </div>
 
 <br>
 
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000" />
+
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000" />
