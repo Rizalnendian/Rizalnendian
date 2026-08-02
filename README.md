@@ -4,7 +4,6 @@
 
 <h2 data-importer="text" align="left">About me</h2>
 
-###
 
 <p data-importer="text" align="left">My name is Rizal Nendian Rezkita, you can call me "Zal," and I'm from Indonesia. I'm a student of Information Systems at Universitas Terbuka, currently studying and hoping to pursue a career in IT. I'm primarily a graphic designer specializing in jersey design and social media marketing.</p>
 
