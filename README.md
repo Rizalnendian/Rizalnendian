@@ -1,70 +1,50 @@
 <div align="center">
-  
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rect&height=120&section=header&reversal=false&text=Rizal_Nendian&fontSize=50&fontColor=D4FF00&fontAlign=50&fontAlignY=45&stroke=1B36C6&strokeWidth=2&animation=twinkling&desc=%3E_SYS.INIT()&descSize=16&descAlign=50&descAlignY=75&textBg=false&color=000000" alt="Header" />
-
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=D4FF00&vCenter=true&size=18&pause=1200" alt="Typing effect" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:121212&height=500&section=header&text=Halo,%20saya%20Rizal%20👋&fontSize=42&fontColor=a8ff3e&animation=fadeIn&fontAlignY=38&desc=Sistem%20Informasi%20%7C%20Beralih%20ke%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=a8ff3e&vCenter=true&size=20&pause=1200"/>
 </div>
+<br>
 
----
+## Tentang Saya
+​Saya adalah Desainer Jersey berpengalaman yang pernah bergabung dengan SNS APPAREL, dengan keahlian dalam membuat desain sesuai permintaan klien, menyusun detail produksi, serta pola printing. Selain itu, saya juga mahir dalam desain konten media sosial, motion graphic, video reels, desain jersey, dan pembuatan materi pemasaran seperti brosur dan katalog. Dalam menjalankan pekerjaan tersebut, saya menggunakan berbagai tools, di antaranya CorelDRAW, Photoshop, dan Adobe Premiere.
 
-### ⚡ `SYS.ABOUT_ME`
+Selama magang di Tribunnews Bogor, saya terbiasa menjaga konsistensi publikasi konten dengan standar tinggi, yang memperkuat kedisiplinan dan ketelitian saya dalam bekerja. Saat ini, saya sedang menempuh pendidikan S1 Sistem Informasi di Universitas Terbuka sambil terus mengembangkan diri di industri kreatif.
 
-> **[ STATUS : ONLINE ]**  
-> Saya adalah Desainer Jersey berpengalaman yang pernah bergabung dengan **SNS APPAREL**, dengan keahlian dalam membuat desain sesuai permintaan klien, menyusun detail produksi, serta pola *printing*. Saya juga mahir dalam desain konten media sosial, *motion graphic*, video *reels*, dan pembuatan materi pemasaran.
-> 
-> Berbekal kedisiplinan dan ketelitian dari pengalaman magang di **Tribunnews Bogor**, saat ini saya sedang menempuh pendidikan **S1 Sistem Informasi di Universitas Terbuka**. Memiliki minat kuat di bidang IT, khususnya *software* & *web development*, saya siap melakukan transisi dan berkembang dalam peran teknis sebagai **Web Developer**.
+Di samping latar belakang desain, saya memiliki minat kuat di bidang IT, khususnya software development dan web development. Oleh karena itu, saya siap beralih ke peran teknis seperti Web Developer sebagai langkah lanjutan untuk terus berkembang di dunia digital.
+<br>
 
----
+## Tools & Stack
+**Design**
 
-### ⚙️ `SYS.TECH_STACK`
+<img src="https://img.shields.io/badge/CorelDRAW-121212?style=for-the-badge&logo=corel&logoColor=a8ff3e"/>
+<img src="https://img.shields.io/badge/Photoshop-121212?style=for-the-badge&logo=adobephotoshop&logoColor=a8ff3e"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-121212?style=for-the-badge&logo=adobepremierepro&logoColor=a8ff3e"/>
 
+**Programming**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,git,github,java&theme=dark"/>
+<br>
+<br>
+
+## GitHub Stats
 <div align="center">
-
-**[ DESIGN_MODULES ]**<br>
-<img src="https://img.shields.io/badge/CorelDRAW-000000?style=flat-square&logo=coreldraw&logoColor=D4FF00&labelColor=1B36C6" alt="CorelDRAW"/>
-<img src="https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=D4FF00&labelColor=1B36C6" alt="Photoshop"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-000000?style=flat-square&logo=adobepremierepro&logoColor=D4FF00&labelColor=1B36C6" alt="Premiere Pro"/>
-
-<br><br>
-
-**[ DEV_MODULES ]**<br>
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=D4FF00&labelColor=1B36C6" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=D4FF00&labelColor=1B36C6" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=D4FF00&labelColor=1B36C6" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=D4FF00&labelColor=1B36C6" alt="Vue.js"/>
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=D4FF00&labelColor=1B36C6" alt="Java"/>
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=D4FF00&labelColor=1B36C6" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=D4FF00&labelColor=1B36C6" alt="GitHub"/>
-
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&hide_border=true&count_private=true&bg_color=121212&title_color=a8ff3e&text_color=ffffff&icon_color=a8ff3e&hide_border=false"/>
+<br>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&layout=compact&hide_border=true&langs_count=8&bg_color=121212&title_color=a8ff3e&text_color=ffffff&hide_border=false"/>
+<br>
+<img src="https://streak-stats.demolab.com/?user=Rizalnendian&hide_border=true&background=121212&ring=a8ff3e&fire=a8ff3e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a8ff3e&sideLabels=ffffff&dates=ffffff&stroke=ffffff&hide_border=false"/>
 </div>
+<br>
 
----
-
-### 📊 `SYS.GITHUB_STATS`
-
+## Terhubung
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&icon_color=1B36C6&border_color=1B36C6&hide_border=false&border_radius=0" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&layout=compact&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&border_color=1B36C6&hide_border=false&border_radius=0" height="165" alt="Top Langs" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Rizalnendian&background=000000&ring=1B36C6&fire=D4FF00&currStreakNum=D4FF00&sideNums=B3B3B3&currStreakLabel=B3B3B3&sideLabels=B3B3B3&dates=B3B3B3&stroke=1B36C6&border=1B36C6&hide_border=false&border_radius=0" alt="Streak" />
+<a href="https://instagram.com/GANTI_USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-a8ff3e?style=for-the-badge&logo=instagram&logoColor=121212"/></a>
+<a href="https://linkedin.com/in/GANTI_USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-a8ff3e?style=for-the-badge&logo=linkedin&logoColor=121212"/></a>
+<a href="https://tiktok.com/@GANTI_USERNAME_TIKTOK"><img src="https://img.shields.io/badge/TikTok-a8ff3e?style=for-the-badge&logo=tiktok&logoColor=121212"/></a>
+<a href="mailto:GANTI_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-a8ff3e?style=for-the-badge&logo=gmail&logoColor=121212"/></a>
 </div>
-
----
-
-### 🔗 `SYS.CONNECTIONS`
-
-<div align="center">
-  <!-- Ganti tanda '#' pada href dengan URL sosial media Anda -->
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=D4FF00&labelColor=1B36C6" alt="YouTube" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=twitter&logoColor=D4FF00&labelColor=1B36C6" alt="Twitter" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=D4FF00&labelColor=1B36C6" alt="Instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=D4FF00&labelColor=1B36C6" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linktree-000000?style=flat-square&logo=linktree&logoColor=D4FF00&labelColor=1B36C6" alt="Linktree" /></a>
-</div>
-
 <br>
 
 <div align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rect&height=40&section=footer&reversal=false&text=EOF&fontSize=14&fontColor=D4FF00&fontAlign=50&fontAlignY=50&stroke=1B36C6&strokeWidth=2&color=000000" alt="Footer" />
+<img src="https://komarev.com/ghpvc/?username=Rizalnendian&style=for-the-badge&color=a8ff3e&label=Kunjungan+Profil"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:121212&height=100&section=footer" width="100%"/>
 </div>
