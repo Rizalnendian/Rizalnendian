@@ -97,7 +97,7 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 <h2 data-importer="text" align="center">Music</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=7FFF00&bar_color_cover=false" width="93%">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=7fff00&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
