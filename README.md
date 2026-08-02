@@ -50,7 +50,7 @@
 
   
   <img src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&icon_color=1B36C6&border_color=1B36C6&hide_border=false&border_radius=0" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&layout=compact&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&border_color=1B36C6&hide_border=false&border_radius=0" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&layout=compact&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&border_color=1B36C6&hide_border=false&border_radius=0" height="200" alt="Top Langs" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=Rizalnendian&background=000000&ring=1B36C6&fire=D4FF00&currStreakNum=D4FF00&sideNums=B3B3B3&currStreakLabel=B3B3B3&sideLabels=B3B3B3&dates=B3B3B3&stroke=1B36C6&border=1B36C6&hide_border=false&border_radius=0" alt="Streak" />
 </div>
