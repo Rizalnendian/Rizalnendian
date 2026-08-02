@@ -2,18 +2,9 @@
 
 <div align="center">
   <!-- Terminal Stats Addition -->
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://github.com/Rizalnendian.png" width="150" style="border-radius: 10px; border: 2px solid #1B36C6;" alt="Profile Picture" />
-    </td>
-    <td>
-      <a href="https://github.com/Rizalnendian">
-        <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Rizalnendian&theme=tokyonight" alt="GitHub Stats Terminal" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Rizalnendian">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Rizalnendian&theme=tokyonight&show_avatar=true" alt="GitHub Stats Terminal" />
+</a>
   <br><br>
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=D4FF00&vCenter=true&size=18&pause=1200" alt="Typing effect" />
