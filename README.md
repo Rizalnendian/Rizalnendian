@@ -42,11 +42,12 @@ Di samping latar belakang desain, saya memiliki minat kuat di bidang IT, khususn
 <br>
 
 ## Terhubung
-<div align="center">
-<a href="https://instagram.com/GANTI_USERNAME_IG"><img src="https://img.shields.io/badge/Instagram-a8ff3e?style=for-the-badge&logo=instagram&logoColor=121212"/></a>
-<a href="https://linkedin.com/in/GANTI_USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-a8ff3e?style=for-the-badge&logo=linkedin&logoColor=121212"/></a>
-<a href="https://tiktok.com/@GANTI_USERNAME_TIKTOK"><img src="https://img.shields.io/badge/TikTok-a8ff3e?style=for-the-badge&logo=tiktok&logoColor=121212"/></a>
-<a href="mailto:GANTI_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-a8ff3e?style=for-the-badge&logo=gmail&logoColor=121212"/></a>
+<div data-importer="socials" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
 </div>
 <br>
 
