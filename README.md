@@ -3,13 +3,7 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Rizal%20Nendian&fontSize=70&fontColor=cef505&fontAlign=50&fontAlignY=50&stroke=0f0f0f&strokeWidth=14&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=a66cff"  />
 </div>
-<br clear="both">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
 
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=a8ff3e&vCenter=true&size=20&pause=1200"/>
