@@ -73,7 +73,7 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 
 ###
 
-<h2 data-importer="text" align="left">Stats</h2>
+<h2 data-importer="text" align="center">Stats</h2>
 
 ###
 
@@ -87,7 +87,7 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/activity-graph-output/activity-graph.svg" width="93%"  alt="activity-graph graph" />
 </div><br>
 
-<h2 data-importer="text" align="left">Music</h2>
+<h2 data-importer="text" align="center">Music</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="93%">
