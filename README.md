@@ -1,12 +1,13 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000" />
-
-
-
 ###
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=WELCOME!;My+name+is+Rizal+Nendian+Rezkita;You+can+call+me+%22Zal%22;I'm+from+Indonesia;I'm+a+student+of+Information+Systems+at+Universitas+Terbuka;Currently+studying+and+hoping+to+pursue+a+career+in+IT;I'm+primarily+a+graphic+designer+specializing+in+jersey+design+and+social+media+marketing" alt="Typing SVG" /></a>
 
 <h2 data-importer="text" align="left">About me</h2>
+
+###
+
+<p data-importer="text" align="left">My name is Rizal Nendian Rezkita, you can call me "Zal," and I'm from Indonesia. I'm a student of Information Systems at Universitas Terbuka, currently studying and hoping to pursue a career in IT. I'm primarily a graphic designer specializing in jersey design and social media marketing.</p>
+
 ###
 
 <h2 data-importer="text" align="left">Programming language</h2>
@@ -52,13 +53,11 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizalnendian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&radius=16&theme=github-dark&area=true" height="300" alt="activity-graph graph" />
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
 
 ###
 <br>
