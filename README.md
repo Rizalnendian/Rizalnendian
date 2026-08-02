@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=a8ff3e&vCenter=true&size=20&pause=1200"/>
 </div>
 <br>
+<img data-importer="snake" src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/snake-output/snake.svg" alt="Snake animation" />
 
 ## Tentang Saya
 
