@@ -11,8 +11,6 @@ Before fully focusing on IT, I had solid professional experience in the creative
 
 My internship as a content creator at Tribunnews Bogor has shaped my discipline, meticulousness, and high standards in maintaining consistent publications. This combination of aesthetic acumen from the design world and logical abilities from my Information Systems background gives me a unique advantage in bridging technical functionality and optimal user experience in every web development project.</p>
 
-###
-
 <h2 data-importer="text" align="left">Social Media</h2>
 
 ###
@@ -27,13 +25,15 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
   <a href="https://linktr.ee/rizalnendian_r" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
-  <a href="rnendian0522@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
   <a href="https://x.com/RezkitaRizal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
+  <a href="https://www.youtube.com/@rizalnendianr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
 </div>
+
+###
 
 <h2 data-importer="text" align="left">Programming language</h2>
 
