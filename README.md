@@ -5,7 +5,11 @@
 <h2 data-importer="text" align="left">About me</h2>
 
 
-<p data-importer="text" align="left">My name is Rizal Nendian Rezkita, you can call me "Zal," and I'm from Indonesia. I'm a student of Information Systems at Universitas Terbuka, currently studying and hoping to pursue a career in IT. I'm primarily a graphic designer specializing in jersey design and social media marketing.</p>
+<p data-importer="text" align="left">I am a Bachelor's degree student in Information Systems at Universitas Terbuka (Open University) with a deep interest and focus in IT, particularly software and web development. Armed with a strong analytical understanding, I am ready to take on a technical role as a Web Developer to build and develop innovative digital solutions.
+
+Before fully focusing on IT, I had solid professional experience in the creative industry as an experienced Jersey Designer at SNS APPAREL, working from client design customization and production details to printing patterns. Furthermore, I am proficient in creating marketing materials, social media content design, motion graphics, and video reels using CorelDRAW, Photoshop, and Adobe Premiere.
+
+My internship as a content creator at Tribunnews Bogor has shaped my discipline, meticulousness, and high standards in maintaining consistent publications. This combination of aesthetic acumen from the design world and logical abilities from my Information Systems background gives me a unique advantage in bridging technical functionality and optimal user experience in every web development project.</p>
 
 ###
 
@@ -52,26 +56,23 @@
 ###
 
 <div data-importer="stats" align="center" width="100%">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&card_width=440" height="195" width="48%" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_width=440&card_height=195" height="195" width="48%" alt="streak graph" />
-</div>
-
-<br>
+  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&card_width=440" height="195" width="49%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_width=440&card_height=195" height="195" width="49%" alt="streak graph" />
+</div> <br>
 
 <div data-importer="stats" align="center" width="100%">
-  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/languages-output/languages.svg" width="100%" height="195" alt="languages graph" />
-  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/activity-graph-output/activity-graph.svg" width="100%" height="195" alt="activity-graph graph" />
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/languages-output/languages.svg" width="93%" alt="languages graph" /> <br><br>
+  <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/activity-graph-output/activity-graph.svg" width="93%"  alt="activity-graph graph" />
 </div><br>
 
-###
-<br>
-
+<h2 data-importer="text" align="left">Music</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="100%">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="93%">
   </a>
 </p>
 
 <br>
+
 
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000" />
