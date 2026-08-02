@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:121212&height=200&section=header&text=Halo,%20saya%20Rizal%20👋&fontSize=42&fontColor=a8ff3e&animation=fadeIn&fontAlignY=38&desc=Sistem%20Informasi%20%7C%20Beralih%20ke%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20I'm%20Rizal%20Nendian&fontSize=70&fontColor=cef505&fontAlign=50&fontAlignY=50&stroke=0f0f0f&strokeWidth=14&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=a66cff"  />
+</div>
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=a8ff3e&vCenter=true&size=20&pause=1200"/>
 </div>
 <br>
