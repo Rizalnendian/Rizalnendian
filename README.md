@@ -1,6 +1,11 @@
 <div align="center">
-  
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=rect&height=120&section=header&reversal=false&text=Rizal_Nendian&fontSize=50&fontColor=D4FF00&fontAlign=50&fontAlignY=45&stroke=1B36C6&strokeWidth=2&animation=twinkling&desc=%3E_SYS.INIT()&descSize=16&descAlign=50&descAlignY=75&textBg=false&color=000000" alt="Header" />
+
+<div align="center">
+  <!-- Terminal Stats Addition -->
+  <a href="https://github.com/Rizalnendian">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Rizalnendian&theme=tokyonight" alt="GitHub Stats Terminal" />
+  </a>
+  <br><br>
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=D4FF00&vCenter=true&size=18&pause=1200" alt="Typing effect" />
 
@@ -43,12 +48,6 @@
 
 ### 📊 `SYS.GITHUB_STATS`
 
-<div align="center">
-  <!-- Terminal Stats Addition -->
-  <a href="https://github.com/Rizalnendian">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Rizalnendian&theme=tokyonight" alt="GitHub Stats Terminal" />
-  </a>
-  <br><br>
   
   <img src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&icon_color=1B36C6&border_color=1B36C6&hide_border=false&border_radius=0" height="165" alt="Stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&layout=compact&bg_color=000000&title_color=D4FF00&text_color=B3B3B3&border_color=1B36C6&hide_border=false&border_radius=0" height="165" alt="Top Langs" />
