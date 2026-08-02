@@ -27,10 +27,11 @@ Materi kuliah yang lagi dijalani: jaringan, pemrograman web, rekayasa perangkat 
 
 ## GitHub Stats
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rizalnendian&show_icons=true&hide_border=true&count_private=true&bg_color=191919&title_color=BDFB04&text_color=DFDED7&icon_color=BDFB04"/> 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizalnendian&layout=compact&hide_border=true&langs_count=8&bg_color=191919&title_color=BDFB04&text_color=DFDED7"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&hide_border=true&count_private=true&bg_color=191919&title_color=BDFB04&text_color=DFDED7&icon_color=BDFB04"/>
+  
+<img height="165" src="https://streak-stats.demolab.com/?user=Rizalnendian&layout=compact&hide_border=true&langs_count=8&bg_color=191919&title_color=BDFB04&text_color=DFDED7"/>
 <br> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizalnendian&hide_border=true&background=191919&ring=BDFB04&fire=BDFB04&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BDFB04&sideLabels=DFDED7&dates=DFDED7&stroke=DFDED7"/> </div> <br>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&hide_border=true&background=191919&ring=BDFB04&fire=BDFB04&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=BDFB04&sideLabels=DFDED7&dates=DFDED7&stroke=DFDED7"/> </div> <br>
 </div>
 <br>
 
