@@ -27,11 +27,11 @@ Di samping latar belakang desain, saya memiliki minat kuat di bidang IT, khususn
 
 ## GitHub Stats
 <div align="center">
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&hide_border=true&count_private=true&bg_color=121212&title_color=a8ff3e&text_color=ffffff&icon_color=a8ff3e"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Rizalnendian&show_icons=true&hide_border=true&count_private=true&bg_color=121212&title_color=a8ff3e&text_color=ffffff&icon_color=a8ff3e&hide_border=false"/>
 <br>
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&layout=compact&hide_border=true&langs_count=8&bg_color=121212&title_color=a8ff3e&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalnendian&layout=compact&hide_border=true&langs_count=8&bg_color=121212&title_color=a8ff3e&text_color=ffffff&hide_border=false"/>
 <br>
-<img src="https://streak-stats.demolab.com/?user=Rizalnendian&hide_border=true&background=121212&ring=a8ff3e&fire=a8ff3e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a8ff3e&sideLabels=ffffff&dates=ffffff&stroke=ffffff"/>
+<img src="https://streak-stats.demolab.com/?user=Rizalnendian&hide_border=true&background=121212&ring=a8ff3e&fire=a8ff3e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a8ff3e&sideLabels=ffffff&dates=ffffff&stroke=ffffff&hide_border=false"/>
 </div>
 <br>
 
