@@ -92,7 +92,7 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 
 <p align="center">
   <a href="https://github.com/Rizalnendian/Rizalnendian">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&bg_color=00000000&color=7FFF00&line=00AEFF&point=FFFFFF&area=false&hide_border=false&border=00AEFF" width="810" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&bg_color=00000000&color=7FFF00&line=00AEFF&point=FFFFFF&area=false&hide_border=false&border_color=00AEFF" width="810" alt="GitHub Activity Graph" />
   </a>
 </p>
 
