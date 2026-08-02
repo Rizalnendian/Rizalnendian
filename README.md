@@ -8,7 +8,7 @@
 </a>
   <br><br>
 
-  <a href="https://githubcard.com/Rizalnendian.svg?d=SEVmyveJDAjv">Yup</a>
+
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=D4FF00&vCenter=true&size=18&pause=1200" alt="Typing effect" />
 
