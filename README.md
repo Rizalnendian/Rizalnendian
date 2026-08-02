@@ -1,6 +1,4 @@
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=WELCOME!;My+name+is+Rizal+Nendian+Rezkita;You+can+call+me+%22Zal%22;I'm+from+Indonesia;I'm+a+student+of+Information+Systems+at+Universitas+Terbuka;Currently+studying+and+hoping+to+pursue+a+career+in+IT;I'm+primarily+a+graphic+designer+specializing+in+jersey+design+and+social+media+marketing" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FFF00&background=000000&vCenter=true&width=435&lines=WELCOME!;My+name+is+Rizal+Nendian+Rezkita;You+can+call+me+%22Zal%22;I'm+from+Indonesia;I'm+a+student+of+Information+Systems+at+Universitas+Terbuka;Currently+studying+and+hoping+to+pursue+a+career+in+IT;I'm+primarily+a+graphic+designer+specializing+in+jersey+design+and+social+media+marketing" alt="Typing SVG"/></a>
 
 <h2 data-importer="text" align="center">About me</h2>
 
@@ -17,19 +15,19 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/rizalnendian_r/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00AEFF&logoColor=7FFF00&labelColor=000000&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rizalnendianrezkita" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00AEFF&logoColor=7FFF00&labelColor=000000&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://linktr.ee/rizalnendian_r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=00AEFF&logoColor=7FFF00&labelColor=000000&style=for-the-badge" height="40" alt="linktree logo"  />
   </a>
   <a href="https://x.com/RezkitaRizal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=00AEFF&logoColor=7FFF00&labelColor=000000&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@rizalnendianr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=00AEFF&logoColor=7FFF00&labelColor=000000&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
 </div>
 
@@ -78,11 +76,13 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 ###
 
 <div data-importer="stats" align="center" width="100%">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&card_width=440" height="195" width="49%" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&card_width=440&card_height=195" height="195" width="49%" alt="streak graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=000000&border_color=00AEFF&locale=en&hide_border=false&card_width=440" height="195" width="49%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&background=000000&border=00AEFF&stroke=FFFFFF&ring=00AEFF&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=false&border_radius=5&order=3&card_width=440&card_height=195" height="195" width="49%" alt="streak graph" />
 </div> <br>
 
 <div data-importer="stats" align="center" width="100%">
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&theme=chartreuse-dark" width="93%" alt="languages graph" />
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/languages-output/languages.svg" width="93%" alt="languages graph" /> <br><br>
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/activity-graph-output/activity-graph.svg" width="93%"  alt="activity-graph graph" />
 </div><br>
@@ -90,11 +90,8 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 <h2 data-importer="text" align="center">Music</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" width="93%">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315euv2avaqfvibneclvuo75hata&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=7FFF00&bar_color_cover=false" width="93%">
   </a>
 </p>
 
 <br>
-
-
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/beats/api?height=200&width=2000" />
