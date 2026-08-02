@@ -7,11 +7,7 @@
 ## Tentang Saya
 ​Saya adalah Desainer Jersey berpengalaman yang pernah bergabung dengan SNS APPAREL, dengan keahlian dalam membuat desain sesuai permintaan klien, menyusun detail produksi, serta pola printing. Selain itu, saya juga mahir dalam desain konten media sosial, motion graphic, video reels, desain jersey, dan pembuatan materi pemasaran seperti brosur dan katalog. Dalam menjalankan pekerjaan tersebut, saya menggunakan berbagai tools, di antaranya CorelDRAW, Photoshop, dan Adobe Premiere.
 
-​
-
 Selama magang di Tribunnews Bogor, saya terbiasa menjaga konsistensi publikasi konten dengan standar tinggi, yang memperkuat kedisiplinan dan ketelitian saya dalam bekerja. Saat ini, saya sedang menempuh pendidikan S1 Sistem Informasi di Universitas Terbuka sambil terus mengembangkan diri di industri kreatif.
-
-​
 
 Di samping latar belakang desain, saya memiliki minat kuat di bidang IT, khususnya software development dan web development. Oleh karena itu, saya siap beralih ke peran teknis seperti Web Developer sebagai langkah lanjutan untuk terus berkembang di dunia digital.
 <br>
