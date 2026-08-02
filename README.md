@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:191919,100:191919&height=200&section=header&text=Halo,%20saya%20Rizal%20👋&fontSize=42&fontColor=BDFB04&animation=fadeIn&fontAlignY=38&desc=Sistem%20Informasi%20%7C%20Beralih%20ke%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=BDFB04&vCenter=true&size=20&pause=1200"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BDFB04,100:BDFB04&height=200&section=header&text=Halo,%20saya%20Rizal%20👋&fontSize=42&fontColor=191919&animation=fadeIn&fontAlignY=38&desc=Sistem%20Informasi%20%7C%20Beralih%20ke%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Mahasiswa+Sistem+Informasi+%40+Universitas+Terbuka;Ex-Desainer+Jersey+%40+SNS+APPAREL;Lagi+belajar+HTML,+CSS,+JS,+Vue.js;Terbuka+untuk+kolaborasi+proyek+web&font=Fira+Code&center=true&width=650&height=45&color=191919&vCenter=true&size=20&pause=1200"/>
 </div>
 <br>
 
