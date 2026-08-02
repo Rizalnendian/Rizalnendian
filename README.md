@@ -52,8 +52,8 @@
 ###
 
 <div data-importer="stats" align="center" width="100%">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" width="48%" height="195" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="48%" height="195" alt="streak graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" width="48%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="48%" alt="streak graph" />
 </div><br>
 
 <div data-importer="stats" align="center">
