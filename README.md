@@ -82,17 +82,17 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 ###
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=00000000&border_color=00AEFF&locale=en&hide_border=false&border_radius=5&card_width=400" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=00000000&border_color=00AEFF&locale=en&hide_border=false&border_radius=5&card_width=400&cache_seconds=60" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&background=00000000&border=00AEFF&stroke=FFFFFF&ring=00AEFF&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=false&border_radius=5&card_width=400" alt="streak graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&hide_border=false&border_color=00AEFF&bg_color=00000000&title_color=7FFF00&text_color=FFFFFF&border_radius=5&card_width=810" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&hide_border=false&border_color=00AEFF&bg_color=00000000&title_color=7FFF00&text_color=FFFFFF&border_radius=5&card_width=810&cache_seconds=60" alt="languages graph" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Rizalnendian/Rizalnendian">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&bg_color=00000000&color=7FFF00&line=00AEFF&point=FFFFFF&area=false&border_radius=5&hide_border=false&border_color=00AEFF" width="810" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizalnendian&bg_color=00000000&color=7FFF00&line=00AEFF&point=FFFFFF&area=false&border_radius=5&hide_border=false&border_color=00AEFF&cache_seconds=60" width="810" alt="GitHub Activity Graph" />
   </a>
 </p>
 
