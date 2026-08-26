@@ -83,7 +83,6 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=00000000&border_color=00AEFF&locale=en&hide_border=false&border_radius=5&card_width=400&cache_seconds=60" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Rizalnendian&locale=en&mode=daily&background=00000000&border=00AEFF&stroke=FFFFFF&ring=00AEFF&fire=7FFF00&currStreakLabel=7FFF00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_border=false&border_radius=5&card_width=400" alt="streak graph" />
 </p>
 
 <p align="center">
