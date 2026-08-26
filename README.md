@@ -89,6 +89,17 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&hide_border=false&border_color=00AEFF&bg_color=00000000&title_color=7FFF00&text_color=FFFFFF&border_radius=5&card_width=810&cache_seconds=60" alt="languages graph" />
 </p>
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <br>
 <h2 data-importer="text" align="center">Music</h2>
