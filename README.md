@@ -70,7 +70,6 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
 </div>
 
 ###
@@ -78,13 +77,13 @@ My internship as a content creator at Tribunnews Bogor has shaped my discipline,
 <h2 data-importer="text" align="center">Stats</h2>
 
 ###
-<p align="center">
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Rizalnendian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=7FFF00&icon_color=00AEFF&text_color=FFFFFF&bg_color=00000000&border_color=00AEFF&locale=en&hide_border=false&border_radius=5&card_width=400&cache_seconds=60" alt="stats graph" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Rizalnendian&layout=compact&langs_count=10&hide_border=false&border_color=00AEFF&bg_color=00000000&title_color=7FFF00&text_color=FFFFFF&border_radius=5&card_width=810&cache_seconds=60" alt="languages graph" />
-</p>
+</div>
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Rizalnendian/Rizalnendian/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5&bg_color=000000&color=7FFF00&title_color=00AEFF&line=00AEFF&point=7fff00&hide_border=true" height="300" alt="activity-graph graph"  />
